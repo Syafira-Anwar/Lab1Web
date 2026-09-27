@@ -1,3 +1,4 @@
-Ruang<img width="376" height="106" alt="Screenshot 2026-09-27 084501" src="https://github.com/user-attachments/assets/8f40e7bd-1354-47db-b66a-4d477d3639b1" />
+membuat struktur dasar HTML Ruang<img width="376" height="106" alt="Screenshot 2026-09-27 084501" src="https://github.com/user-attachments/assets/8f40e7bd-1354-47db-b66a-4d477d3639b1" />
 
-<img width="350" height="152" alt="Screenshot 2026-09-27 090023" src="https://github.com/user-attachments/assets/3f2a7f07-c746-4e92-b30d-50e492cc14a2" />
+menambahkan judul dan sub judul <img width="350" height="152" alt="Screenshot 2026-09-27 090023" src="https://github.com/user-attachments/assets/3f2a7f07-c746-4e92-b30d-50e492cc14a2" />
+membuat paragraf <img width="651" height="307" alt="image" src="https://github.com/user-attachments/assets/ca56718b-4f16-4d6b-8ee5-23f5e4038a0b" />
