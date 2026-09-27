@@ -2,3 +2,4 @@ membuat struktur dasar HTML Ruang<img width="376" height="106" alt="Screenshot 2
 
 menambahkan judul dan sub judul <img width="350" height="152" alt="Screenshot 2026-09-27 090023" src="https://github.com/user-attachments/assets/3f2a7f07-c746-4e92-b30d-50e492cc14a2" />
 membuat paragraf <img width="651" height="307" alt="image" src="https://github.com/user-attachments/assets/ca56718b-4f16-4d6b-8ee5-23f5e4038a0b" />
+menambahkan gambar <img width="422" height="225" alt="image" src="https://github.com/user-attachments/assets/2b2208c9-b9ec-4e87-8ba9-96e55fe69d39" />
